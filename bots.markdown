@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Bots
+permalink: /bots/
 navigable: true
 ---
 
