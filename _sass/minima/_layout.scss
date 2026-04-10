@@ -11,7 +11,7 @@
 }
 
 .site-logo {
-  height: $spacing-unit * 1.865;
+  height: $base-font-size * 4.00;
 }
 
 .site-title {
@@ -28,9 +28,13 @@
   }
 }
 
+.site-flex {
+  flex-grow: 1;
+}
+
 .site-nav {
-  float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+
+  align-self: end;
 
   .nav-trigger {
       display: none;

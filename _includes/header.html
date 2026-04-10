@@ -1,12 +1,14 @@
 <header class="site-header" role="banner">
 
-  <div class="wrapper">
+  <div class="header-wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 		<!--
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 		-->
-		<a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img class="site-logo" src="assets/logo.png"></a>
+		<a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img class="site-logo" src="/assets/logo.png"></a>
+
+		<div class="site-flex">&nbsp;</div>
 
     {%- if page_paths -%}
       <nav class="site-nav">
