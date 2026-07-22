@@ -18,6 +18,7 @@ at the following social media accounts:
 |<span class="fa-stack" aria-hidden="true"><i class="fas fa-circle fa-stack-1x"></i><i class="fab fa-x-twitter fa-stack-1x fa-inverse"></i></span> | [@Item105](https://x.com/Item105) | Disclosure of cybersecurity incidents with a material impact on company operations/finances. | |
 | <span class="fa-stack" aria-hidden="true"><i class="fab fa-bluesky fa-stack-1x"></i></span> | [@item105.eyesec.it](https://bsky.app/profile/item105.eyesec.it) | Disclosure of cybersecurity incidents with a material impact on company operations/finances. | Beta |
 | <span class="fa-stack" aria-hidden="true"><i class="fab fa-bluesky fa-stack-1x"></i></span> | [@item502.eyesec.it](https://bsky.app/profile/item502.eyesec.it) | Disclosure of the departure of Directors or Principal Officers; election of Directors; or appointment of Principal Officers.| Beta | 
+| <span class="fa-stack" aria-hidden="true"><i class="fab fa-mastodon fa-stack-1x"></i></span> | [@item502](https://mastodon.social/@item502) | Disclosure of the departure of Directors or Principal Officers; election of Directors; or appointment of Principal Officers.| Beta | 
  
 ### Source Code
 
